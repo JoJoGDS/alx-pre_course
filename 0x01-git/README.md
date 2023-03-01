@@ -1,2 +1,1 @@
-second read me
-trying to keep it
+My first readme
